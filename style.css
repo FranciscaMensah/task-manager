@@ -1,0 +1,49 @@
+header{
+    background-color:green;
+    color:white;
+    padding:20px;
+    margin-bottom: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#simply{
+    color:lawngreen;
+}
+
+.container{
+    width: 95%;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    color:dimgray;
+    text-align: left;
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.input-div{
+    display: flex;
+    flex-direction: column;
+    padding-block-end: 10px;
+}
+
+#form-div{
+    border:1px solid black; 
+    width:90%;
+    margin:10px auto;
+    padding: 20px;
+}
+
+#task-div{
+    border:1px solid black; 
+    width:90%;
+    padding: 10px;
+    margin:20px auto;
+}
+
+#task-table{
+    font-weight: bold;
+    font-size: 1rem;
+}
